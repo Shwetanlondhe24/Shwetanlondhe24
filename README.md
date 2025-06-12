@@ -1,5 +1,5 @@
 # 💫 About Me:
-Enthusiastic engineer with practical knowledge in coding and hands on experience as Full Stack Developer Intern at Q-One Services (Startup), Mask Polymers (company) and Celebal Technologies. Proficient in React.js, MySQL, Node.js (basics), Postman API. Ability to learn new software and technologies quickly. Honors in Data Science
+Enthusiastic engineer with practical knowledge in coding and hands on experience as Full Stack Developer Intern at Q-One Services (Startup), Mask Polymers (company) and Celebal Technologies. Proficient in React.js, MySQL, Node.js (basics), Postman API. Ability to learn new software and technologies quickly. Honors in Data Science. Beyond academics, I'm actively involved in extracurriculars — from leading and organizing tech events to participating in national-level hackathons and competitions. Class Representative and Joint Secretary at Association of Computer Engg. Students Committee, NMIET College
 
 
 ## 🌐 Socials:
