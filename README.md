@@ -1,8 +1,7 @@
 # 💫 About Me
 
 Hi! I'm **Shwetan Londhe** — an enthusiastic engineer with hands-on experience as a **Full Stack Developer Intern** at **Q-One Services**, **Mask Polymers**, and **Celebal Technologies**.  
-I have practical knowledge in **React.js**, **MySQL**, and **Postman API**. Quick to learn new tools and technologies.  
-Honors in **Data Science**.  
+I have practical knowledge in **React.js**, **MySQL**, and **Postman API**. Quick to learn new tools and technologies. Honors in **Data Science**.  
 
 Beyond academics, I'm passionate about **tech events, hackathons**, and **student leadership** — serving as **Class Representative** and **Joint Secretary** at the Association of Computer Engineering Students, NMIET College.
 
@@ -10,8 +9,7 @@ Beyond academics, I'm passionate about **tech events, hackathons**, and **studen
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shwetan-londhe-474a26259/)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shwetan.college@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shwetan-londhe-474a26259/) [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shwetan.college@gmail.com)
 
 ---
 
@@ -40,6 +38,4 @@ Beyond academics, I'm passionate about **tech events, hackathons**, and **studen
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shwetanlondhe24&theme=dark&layout=compact" alt="Top Languages" />
 </div>
-
-> [Create your own README here](https://gprm.itsvg.in)
 
