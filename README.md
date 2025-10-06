@@ -1,6 +1,7 @@
 # 💫 About Me
 
 Hi! I'm **Shwetan Londhe** — an enthusiastic engineer with hands-on experience as a **Full Stack Developer Intern** at **Q-One Services**, **Mask Polymers**, and **Celebal Technologies**.  
+
 I have practical knowledge in **React.js**, **MySQL**, and **Postman API**. Quick to learn new tools and technologies. Honors in **Data Science**.  
 
 Beyond academics, I'm passionate about **tech events, hackathons**, and **student leadership** — serving as **Class Representative** and **Joint Secretary** at the Association of Computer Engineering Students, NMIET College.
