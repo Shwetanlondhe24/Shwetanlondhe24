@@ -69,12 +69,10 @@ Alongside development, I actively participate in **hackathons, tech events, and 
 
 ---
 
-📊 GitHub Stats  
+📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shwetanlondhe24&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shwetanlondhe24&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shwetanlondhe24&layout=compact&theme=tokyonight" />
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shwetanlondhe24&theme=tokyonight&hide_border=true)
+
 </div>
